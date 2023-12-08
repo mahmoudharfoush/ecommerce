@@ -1,5 +1,5 @@
 import React from 'react'
-import Input from '../../pages/Input.jsx'
+import Input from '../../pages/Input.jsx';
 import { useFormik } from 'formik';
 import {registerSchema} from '../validation/validate.js'
 import axios from 'axios';
